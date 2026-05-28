@@ -31,6 +31,7 @@ npx create-docusaurus@latest docs-site classic --typescript
 ```
 
 Then:
+
 ```bash
 cd docs-site
 npm start

@@ -29,6 +29,7 @@ Evaluation Report
 ```
 
 ## Possible Agent Components
+
 ```text
 Research Agent
   - Reads market news, papers, reports
@@ -54,6 +55,7 @@ Evaluation Agent
 ```
 
 ## Design Principles
+
 - Keep numerical trading logic deterministic where possible
 - Use LLMs mainly for unstructured information and explanation
 - Separate research notes from executable scripts
