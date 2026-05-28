@@ -1,0 +1,8 @@
+﻿{
+  "label": "Project Docs",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Project-specific documents including architecture, roadmap, task logs, and design decisions."
+  }
+}
