@@ -1,0 +1,30 @@
+notes:
+phân tích mô hình nến nhật
+- mô hình đảo chiều: đây là các dấu hiệu cho thấy xu hướng hiện tại có khả năng kết thúc và bắt đầu một xu hướng mới
++ nhóm nhấn chìm: bao gồm bearish engulfing(nhấn chìm giảm), xảy ra ở đỉnh xu hướng tang khi nến giảm bao trùm toàn bộ thân nến tăng trước đó, và ngược lại là bullish engulfing(nhấn chìm tăng) ở đáy xu hướng giảm
++ nhóm mây đen và đường xuyên thấu: dark cloud cover(mây đen che phủ) là mô hình đảo chiều giảm giá, nến thứ hai mở cửa cao hơn đỉnh nến thứ nhất nhưng đóng cửa sâu bên trong thân nến thứ nhất. Ngược lại là mô hình piercing line cho tín hiệu tăng giá. 
++ mô hình sao: như evening star(sao hôm) xuất hiện ở đỉnh, gồm ba nến với nến ở giữa là một "ngôi sao" có thân nhỏ và tạo khoảng trống so với nến thứ nhất
++ mô hình harami(mẹ bồng con): thân nến thứ 2 nằm gọn trong thân nến thứ nhất, cho thấy xu hướng đang dần mất đà(momentum) và sự do dự bắt đầu xuất hiện
++ Các mô hình khác: tweezers(đỉnh/đáy nhíp) với các mức giá cao nhất hoặc thấp nhất bang nhau; three black crows(ba con quạ đen) cho tín hiệu giảm mạnh; three white soldiers(ba chàng lính trắng) cho tín hiệu tăng mạnh 
+- mô hình tiếp diễn: cho thấy thị trường chỉ đang tạm nghỉ trước khi tiếp tục xu hướng cũ, ví dụ như rising three method hay upside tasuki gap
+
+phân tích đa khung thời gian: giải thích cách kết hợp nhiều khung thời gian để có cái nhìn toàn diện hơn, giúp xác định xu hướng dài hạn trong khi vẫn tìm được điểm vào lệnh tối ưu ở khung thời gian ngắn hơn
+- hệ thống ba bước lọc:
++ bước 1: sử dụng khung thời gian lớn(vd: biểu đồ tuần) để xác định xu hướng chính, thường dùng các chỉ báo như độ dốc của MACD histogram 
++ bước 2: sử dung khung thời gian trung gian(khung mà bản thân định giao dịch) để tìm các đợt song điều chỉnh đi ngược lại xu hướng chính bang các chỉ báo dao động(oscillator) như Stochastic hoặc Force index
++ bước 3: sử dụng khung thời gian thấp hơn(vd: biểu đồ 60 phút) để tìm điểm phá vỡ(breakout) và vào lệnh
+
+các quy luật của Robert krausz và w.d.gann:
+- mỗi khung thời gian đều có cấu trúc riêng nhưng khung thời gian cao hơn luôn có quyền chi phối khung thấp hơn
+- các mức hỗ trợ và kháng cự ở khung thời gian lớn có giá trị rất cao và thường được giá ở khung thấp hơn tôn trọng
+- sử dung gann swings để xác định xu hướng chủ đạo từ khung thời gian cao nhất
+
+hệ thống kst của martin pring:
+- dựa trên chỉ bảo tỷ lệ thay đổi(roc) được tính toán trên nhiều giai đoạn khác nhau để đo lường sức mạnh của các chu kì thị trường
+- tín hiệu mạnh nhất xuất hiện khi cả ba khung thời gian của chỉ báo roc cùng xác nhận một hướng đi
+- chỉ báo kst(know sure thing) kết hợ 4 chỉ số roc có trọng số khác nhau để tạo ra một đường tín hiệu mượt mà và ít trễ hơn so với thị trường
+
+
+
+===> sử dung phân tích đa khung thời gian(đặc biệt là khung lớn) để biết "thủy triều"(xu hướng) đang lên hay xuống
+===> khi giá điều chỉnh về các vùng quan trọng, quan sát mô hình nến nhật để tìm xác nhận đảo chiều và kích hoạt lệnh giao dịch
