@@ -1,0 +1,35 @@
+notes:
+chỉ số vix được ví như thước đo nỗi sợ hãi của thị trường chứng khoán, cụ thể, chỉ số này đo lường biến động hàm ý(implied volatility) trong 30 ngày tới của chỉ số S&P 500? dựa trên hoạt động giao dịch quyền chọn?
+vix thường có mối quan hệ ngược chiều với thị trường(S&P500). khi vix tăng, nhu cầu mua quyền chọn bán?(put options) để phòng ngừa rủi ro tăng lên, thường trùng khớp với việc thị trường sụt giảm
+cách tính biến động: để tính toán mức độ chuyển động kỳ vọng của thị trường trong 30 ngày từ chỉ số vix, ta lấy giá trị vix chia cho căn bậc 2 của 12, giả sử vix=20% thì biến động kỳ vọng 30 ngày khoảng 20/(12)^(1/2)=5,77
+
+tâm lý thị trường và ý kiến trái chiều:
+- lý thuyết ý kiến trái chiều: các nhà báo và cố vấn tài chính thường có xu hướng lạc quan nhất tại các đỉnh của thị trường và bi quan nhất tại các đáy, khi ý kiến của đa số trở nên cực đoan, đó thường là dấu hiệu cho thấy xu hướng sắp đảo chiều
+- chỉ báo tiền mặt của các quỹ tương hỗ: khi tỷ lệ tiền mặt/tài sản của các quỹ tương hỗ ở mức cao, điều này là một tín hiệu tích cực vì các quỹ có nguồn tiền sẵn sàng để mua cổ phiếu, giúp đẩy giá lên cao. Ngược lại thì tài sản trong các quỹ thị trường tiền tệ cao cũng là dấu hiệu tích cực cho thị trường chứng khoán trong tương lai
+
+đo lường sức mạnh thị trường(market breadth)
+độ rộng thị trường cho thấy sự can bằng giữa các cổ phiếu tăng giá và giảm giá
+- độ rộng thị trường: một chỉ số tăng điểm nhưng có nhiều cổ phiếu thành phần giảm giá hơn là tăng giá sẽ gây lo ngại về sự bền vững của xu hướng tăng đó
+- bộ dao động mcclellan(mcclellan oscillator): đây là một công cụ sử dung hiệu số giữa các cổ phiếu tăng và giảm để xác định các trạng thái quá mua hoặc quá bán, giúp dự báo sự thay đổi hướng của thị trường
+- cổ phiếu nằm trên đường trung bình động: nếu hơn 75% cổ phiếu nằm trên đường trung bình động, thị trường đang ở trạng thái quá mua, nếu dưới 25% thì thị trường đang quá bán
+- breadth thrust: đây là tín hiệu cực mạnh xảy ra khi có một sự thay đổi đột ngột và lớn trong độ rộng thị trường => báo hiệu sự bắt đầu của một đợt tăng giá dài hạn
+
+triết lí đầu tư và chính sách của fed:
+các đặc điểm của nhà đầu tư thành công:
+- sử dụng các chỉ báo khách quan
+- có kỷ luật
+- linh hoạt để thay đổi khi bằng chứng thay đổi
+- quản trị rủi ro
+đừng chống lại fed???
+- lãi suất giảm là tín hiệu tốt cho thị trường chứng khoán, trong khi lãi suất tăng thường kéo giá cổ phiếu đi xuống. Khi lãi suất tăng, trái phiếu? trở nên hấp dẫn hơn so với cổ phiếu vì rủi ro thấp hơn nhưng lãi suất tương đương
+=> trái phiếu là gì? đặc điểm như thế nào?
+
+thu nhập cố định và trái phiếu:
+trái phiếu là một hợp đồng vay mượn giữa người đi vay(chính phủ hoặc tập đoàn) và người cho vay
+=> thế tức là cổ phiếu cũng là một hợp đồng vay như trái phiếu nhưng có lãi suất cao hơn???
+mối quan hệ giữa giá và lãi suất: 
+***giá trái phiếu và lợi suất luôn di chuyển ngược chiều nhau***
+=> khi lãi suất tăng, giá của trái phiếu cũ sẽ giảm
+các thành phần chính: mệnh giá, kỳ hạn, lãi suất cuống phiếu và lợi suất
+
+===> vix cho biết mức độ lo sợ, độ rộng thị trường cho biết sức mạnh nội tại của xu hướng, tâm lý thị trường giúp tránh bẫy đám đông, và chính sách lãi suất của fed là thứ dẫn dắt xu hướng lớn của cả cổ phiếu và trái phiếu(why?)
