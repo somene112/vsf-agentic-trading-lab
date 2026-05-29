@@ -1,0 +1,39 @@
+notes:
+volume được hiểu là tổng số lượng giao dịch của một mặt hang trong 1 khoảng thời gian nhất định(thường là 1 ngày)
+có các loại volume sau:
+market volume
+tick volume-ticks là các giao dịch riêng lẻ=>tick volume là tổng khối lượng dựa trên số lượng các giao dịch riêng lẻ
+average volume-đường trung bình động của khối lượng, giúp làm mượt các biến động, để thấy xu hướng hoạt động rõ ràng hơn
+float(tỷ lệ trôi nổi): số lượng cổ phiếu do công chúng nắm giữ và sẵn sàng để giao dịch
+=> cổ phiếu do công chúng nắm giữ khác nhau như thế nào so với cổ phiếu công ty nắm giữ?
+
+Vai trò của volume:
+-đánh giá mức độ tin tưởng của cộng đồng với 1 mức giá
+-Thước đo Thanh khoản: Khối lượng cao cho phép giao dịch các lô hàng lớn mà ít bị trượt giá (slippage) và không gây gián đoạn thị trường? cái này cần xem lại
+-cho thấy sự quan tâm của thị trường với mã
+-dấu vết của các tổ chức
+
+mqh giữa giá và lượng
+- giá và khối lượng tăng : nhu cầu tăng => tăng giá - xác nhận xu hướng tăng
+- giá tăng khối lượng giảm : nhu cầu giảm => giảm giá - sự quan tâm ít dần, xu hướng tăng suy yếu
+- giá giảm khối lượng tăng : nguồn cung tăng => giảm giá - áp lực bán tháo hoặc bán khống mới 
+- giá và khối lượng giảm : nguồn cung giảm => tăng giá - người bán đã cạn kiệt, thị trường đang tạo đáy
+=> khối lượng dẫn dắt giá
+
+các công cụ và chỉ báo dựa trên khối lượng:
+- vwap : mức giá trung bình có trọng số theo khối lượng => đây là mốc tham chiếu(benchmark) để thực hiện lệnh lớn thành nhiều lô nhỏ, tránh làm thị trường biến động quá mức
+- equivolume : một loại biểu đồ, trong đó độ rộng mỗi cột đại diện cho khối lượng, độ cao đại diện cho biên độ giá?
++ một cột vừa cao vừa rộng được gọi là power box, xuất hiện trong các phiên đột phá? cho thấy xác suất thành công rất cao?
+- volume at price : đại diện cho khối lượng tại mỗi mức giá cụ thể, mức giá có khối lượng giao dịch nhiều nhất là point of control(điểm kiểm soát)
+
+hợp đồng mở???(Open interest - OI)
+- dành riêng cho thị trường tương lai và quyền chọn?
+- cái này chắc chắn khác khối lượng
+các pattern đáng chú ý:
+- OI tăng cùng giá tăng : xác nhận xu hướng mạnh, vì có thêm người mua và người bán mới tham gia
+- OI giảm khi giá tăng : cho thấy sự quan tâm đang giảm dần, chủ yếu là do những người bán khống đang cắt lỗ, báo hiệu xu hướng sắp kết thúc
+
+===> khối lượng là yếu tố khách quan nhất để xác nhận tính bền vững của xu hướng giá. khi có sự mâu thuẫn giữa giá và khối lượng(giá tăng nhưng volume giảm) thì đó là tín hiệu cảnh báo nguy hiểm sớm nhất
+
+
+
